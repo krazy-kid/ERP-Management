@@ -1,0 +1,75 @@
+body{
+    width: 90%;
+    background: linear-gradient(to right, rgb(5, 5, 41), rgb(74, 223, 255));
+    padding: 0px 0px 0px 0px;
+    }
+.firstdiv{
+    background-color: #400000;
+    margin-top: -30px;
+    width: 110%;
+    height: 60px;
+}
+.textstyle{
+    font-size: 30px;
+    color: yellow;
+    text-align: center;
+    padding-top: 10px;
+}
+.middlediv{
+    width: 30%; height: 30%;
+    background: linear-gradient(to right, rgb(74, 223, 255), rgb(5, 5, 41));
+    margin-top: 20px;
+    position: absolute;
+    border-radius: 5px;
+    margin-top: 200px; margin-left: 500px;
+}
+.footerdiv {
+    background-color: #400000;
+    margin-top: 626px;
+    width: 98%;
+    height: 50px;
+    text-align: left;
+    color: aqua;
+    position: absolute;
+}
+.reg{
+    text-decoration: none;
+}
+.fieldname{
+    color: #fefefe;
+    font-size: 20px;
+}
+.btn{
+    background-color: #183bff;
+    border-radius: 4px;
+}
+.middlediv1{
+    width: 40%; height: 50%;
+    background: linear-gradient(to right, rgb(74, 223, 255), rgb(5, 5, 41));
+    margin-top: 40px;
+    position: absolute;
+    border-radius: 10px;
+    margin-top: 100px; margin-left: 500px;
+}
+.footerdiv1 {
+    font-size: large; font-style: italic;
+    width: auto;
+    margin-top: 500px;
+    height: auto;
+    text-align: center;
+    color:maroon;
+    position: absolute;
+}
+.textstyle1{
+    font-size: 25px;
+    color: darkred;
+    text-align: center;
+    padding-top: 20px;}
+.middlediv2{
+    width: 40%; height: 50%;
+    background: linear-gradient(to right, rgb(74, 223, 255), rgb(5, 5, 41));
+    margin-top: 40px;
+    position: absolute;
+    border-radius: 10px;
+    margin-top: 100px; margin-left: 500px;
+}
